@@ -52,7 +52,7 @@ public class ContactForm extends FormLayout {
         save.setClickShortcut(ShortcutAction.KeyCode.ENTER);
         setVisible(false);
     }
-
+//adding a new line to check the change trigger in jenkins
     private void buildLayout() {
         setSizeUndefined();
         setMargin(true);
